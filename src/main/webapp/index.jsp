@@ -9,21 +9,19 @@
 <table>
     <tr>
         <td>
-            <a href="rooms.jsp">Rooms</a>
+            <a href="rooms/rooms.jsp">Rooms</a>
         </td>
     </tr>
     <tr>
         <td>
-            <a href="customers.jsp">Customers</a>
+            <a href="customers/customers.jsp">Customers</a>
         </td>
     </tr>
     <tr>
         <td>
-            <a href="users.jsp">Users</a>
+            <a href="users/users.jsp">Users</a>
         </td>
     </tr>
-
-
 </table>
 </body>
 </html>
